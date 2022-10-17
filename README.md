@@ -1,3 +1,3 @@
-# Stock-Analysis-Dashboard
+# Stock Live Dash
 
-Dash p/ análise de ações 
+Dash p/ análise de ações da Amazon, usando a API do Yahoo Finance
