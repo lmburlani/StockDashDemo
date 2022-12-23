@@ -1,3 +1,5 @@
 # Stock Live Dash
 
-Dash p/ análise de ações da Amazon e da Ibovespa, usando a API do Yahoo Finance
+
+Usando a API do Yahoo Finance, elaborei um gráfico simples para análise de ações da Ibovespa com estimativa para os próximos 3 meses
+-
